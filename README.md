@@ -1,12 +1,4 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
-
-# WESTERN GOVERNORS UNIVERSITY
-
-## D683 – ADVANCED AI AND ML
-
 Welcome to Advanced AI and ML!
-
-For specific task instructions and requirements for this assessment, please refer to the course page.
 
 Project Overview
 
@@ -94,5 +86,6 @@ The project is intended for educational and academic demonstration purposes.
 Author
 Ryan Brunelle (rbrune15)
 Western Governors University
+
 
 
